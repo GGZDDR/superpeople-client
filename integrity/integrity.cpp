@@ -5,7 +5,7 @@
 #include <wininet.h>
 
 #pragma comment(lib, "wininet.lib")
-
+/*
 global_integrity integrity_intellisense;
 
 char* integrity::utilities::get_data( std::string url )
@@ -101,4 +101,4 @@ bool integrity::check( )
 		return false;
 
 	return false;
-}
+}*/
